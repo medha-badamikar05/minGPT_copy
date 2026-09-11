@@ -1,2 +1,2 @@
 # Lab 3 notes
-TYPO: delete me
+Andrew ID: mbadamik
